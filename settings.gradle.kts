@@ -1,0 +1,4 @@
+rootProject.name = "serverwizard-homepage"
+
+include("homepage-api")
+include("homepage-service")
