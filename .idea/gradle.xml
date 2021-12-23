@@ -11,6 +11,17 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/homepage-api" />
             <option value="$PROJECT_DIR$/homepage-service" />
+            <option value="$PROJECT_DIR$/message-broker" />
+            <option value="$PROJECT_DIR$/message-broker/kafka" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/message-broker" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/message-broker" />
           </set>
         </option>
       </GradleProjectSettings>
